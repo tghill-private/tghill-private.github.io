@@ -1,3 +1,7 @@
+---
+layout: custom
+---
+
 # Gluten free pizza
 Makes two large (12-14 inch) pizzas
 
