@@ -16,6 +16,11 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="image-header" role="banner">
+	    <a href="{{ '/' | absolute_url }}" style="color:#ffffff">
+                <h1 class="project-name">{{page.title | default: site.title }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+        </a>
+
     </header>
 
     <main id="content" class="main-content" role="main">
