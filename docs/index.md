@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Recipes
+layout: custom
+title: Recipe
 ---
 
 ## Gluten free baking
