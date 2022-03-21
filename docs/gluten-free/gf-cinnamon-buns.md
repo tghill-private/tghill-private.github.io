@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Cinnamon buns
 
 Makes 9 large buns
