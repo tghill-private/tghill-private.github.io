@@ -106,9 +106,13 @@ a {
 }
 
 .image-header {
-  width: 100%;
+  height: 50%;
   background-image: url('https://raw.githubusercontent.com/tghill-private/tghill-private.github.io/master/assets/images/header.jpg');
   background-size: cover;
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
 }
 
 .page-header {
