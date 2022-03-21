@@ -16,8 +16,8 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-	<a href="https://google.com/">
-      <h1 class="project-name">"Not my real title"</h1>
+	<a href="{{ '/' | absolute_url }}">
+		<h1 class="project-name">{{page.title | default: site.title }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 	</a>
       {% if site.show_downloads %}
