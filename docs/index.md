@@ -1,8 +1,6 @@
-## Recipes
-
-Recipes sorted by
-
 # Gluten free baking
+
+ * [Pizza](/gluten-free/pizza.md)
 
 # Gluten full
 
