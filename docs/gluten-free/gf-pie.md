@@ -5,11 +5,11 @@ header_image: /assets/images/pie.jpg
 ---
 
 # Extra flaky gluten free pie crust
-Makes one double pie crust
 
-[Source](https://glutenfreeonashoestring.com/extra-flaky-gluten-free-sour-cream-pie-crust/)
+Makes one double pie crust. [Source](https://glutenfreeonashoestring.com/extra-flaky-gluten-free-sour-cream-pie-crust/)
 
 ## Ingredients
+
 * 1 1/2 cups GF flour
 * 3/4 tsp xanthan gum (if not in flour)
 * 1/4 tsp baking powder
@@ -19,8 +19,13 @@ Makes one double pie crust
 * Ice water
 
 ## Preparation
+
 * Mix dry ingredients
 * Add butter, flatten between fingers
 * Mix in sour cream
 * Add ice water by the teaspoon until it just holds together
 * Wrap in plastic and refrigerate for at least 30 min
+
+## Tips
+
+This recipe works without xanthan gum but it becomes extremely delicate to handle.

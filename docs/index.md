@@ -9,6 +9,7 @@ header_image: /assets/images/header.jpg
  * [Pizza](/gluten-free/gf-pizza.md)
  * [Cinnamon buns](/gluten-free/gf-cinnamon-buns.md)
  * [Pie crust](/gluten-free/gf-pie.md)
+ * [Bagels](/gluten-free/gf-bagels.md)
 
 ## Gluten full
 
