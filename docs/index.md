@@ -1,7 +1,7 @@
 ---
 layout: image
 title: Recipe
-header_image: /assets/images/pizza.jpg
+header_image: /assets/images/header.jpg
 ---
 
 ## Gluten free baking
