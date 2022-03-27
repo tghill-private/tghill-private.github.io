@@ -17,11 +17,14 @@ header_image: /assets/images/header.jpg
  * [Flourless Brownies](/gluten-free/gf-brownies.md)
  * [Gingerbread Cookies](/gluten-free/gf-gingerbread.md)
  * [Peanut banana oat muffins](/gluten-free/peanut-banana-muffins.md)
+ * [Pierogies](/gluten-free/pierogies.md)
 
 ## Gluten full
 
  * [Bagels](/gluten/bagels.md)
  * [Cornbread](/gluten/cornbread.md)
  * [Pizza](/gluten/pizza.md)
+ * [Pierogies](/gluten/pierogies.md)
+ * [Cinnamon buns](/gluten/cinnamon-buns.md)
 
 ## Gluten ambigious
