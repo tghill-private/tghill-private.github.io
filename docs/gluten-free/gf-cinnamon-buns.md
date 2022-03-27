@@ -1,5 +1,7 @@
 ---
-layout: custom
+layout: image
+title: Cinnamon buns
+image_header: /assets/images/cinnamon-buns.jpg
 ---
 
 # Cinnamon buns
@@ -30,4 +32,3 @@ Makes 9 large buns
 * Add eggs, sugar, melted butter
 * Stir in flour and salt
 * Rise ~1.5 hours
-
