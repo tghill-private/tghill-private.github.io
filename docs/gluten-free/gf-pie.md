@@ -1,5 +1,7 @@
 ---
-layout: custom
+layout: image
+title: Extra flaky gluten free pie crust
+header_image: /assets/images/pie.jpg
 ---
 
 # Extra flaky gluten free pie crust

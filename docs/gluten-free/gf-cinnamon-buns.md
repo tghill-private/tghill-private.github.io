@@ -1,7 +1,7 @@
 ---
 layout: image
 title: Cinnamon buns
-image_header: /assets/images/cinnamon-buns.jpg
+header_image: /assets/images/cinnamon-buns.jpg
 ---
 
 # Cinnamon buns
