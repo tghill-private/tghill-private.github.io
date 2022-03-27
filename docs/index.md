@@ -18,6 +18,7 @@ header_image: /assets/images/header.jpg
  * [Gingerbread Cookies](/gluten-free/gf-gingerbread.md)
  * [Peanut banana oat muffins](/gluten-free/peanut-banana-muffins.md)
  * [Pierogies](/gluten-free/pierogies.md)
+ * [Chocolate cake](/gluten-free/chocolate-cake.md)
 
 ## Gluten full
 
@@ -28,3 +29,5 @@ header_image: /assets/images/header.jpg
  * [Cinnamon buns](/gluten/cinnamon-buns.md)
 
 ## Gluten ambigious
+
+ * [Peppermint Patties](/gluten-amb/peppermint-patties.md)
