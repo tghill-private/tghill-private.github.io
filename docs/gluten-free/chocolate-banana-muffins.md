@@ -1,7 +1,7 @@
 ---
 layout: image
 title: Banana chocolate chip muffins
-header_image: muffins
+header_image: /assets/images/muffins.jpg
 ---
 
 # Banana chocolate chip muffins
