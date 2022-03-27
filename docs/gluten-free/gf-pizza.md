@@ -1,5 +1,7 @@
 ---
-layout: custom
+layout: image
+title: Pizza
+header_image: /assets/images/gf-pizza.jpg
 ---
 
 # Gluten free pizza
@@ -24,4 +26,3 @@ Makes two large (12-14 inch) pizzas
 * Divide into two and roll out
 * Prebake at 400F for 10-15 min until dry
 * Top, bake until desired doneness
-
