@@ -1,6 +1,6 @@
 ---
 layout: image
-title: Recipe
+title: Recipes
 header_image: /assets/images/header.jpg
 ---
 
