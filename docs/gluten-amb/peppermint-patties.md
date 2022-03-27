@@ -1,7 +1,7 @@
 ---
 layout: image
 title: Peppermint Patties
-header_image: /assets/images/peppermint-pattey.jpg
+header_image: /assets/images/peppermint-patty.jpeg
 ---
 
 # Peppermint Patties

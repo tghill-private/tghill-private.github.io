@@ -1,7 +1,7 @@
 ---
 layout: image
 title: Cornbread
-header_image: /assets/images/cornbread
+header_image: /assets/images/cornbread.jpg
 ---
 
 # Cornbread
