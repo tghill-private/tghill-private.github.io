@@ -15,13 +15,13 @@
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
-    <header class="image-header" style="background-image: url('{{ overlay_img_path }}');" role="banner">
+    <div class="image-header" style="background-image: url('{{ overlay_img_path }}');" role="banner">
 
 	    <a href="{{ '/' | absolute_url }}" style="color:#ffffff">
                 <h1 class="hero-text">{{page.title | default: site.title }}</h1>
         </a>
 
-    </header>
+    </div>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
