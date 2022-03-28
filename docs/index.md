@@ -31,3 +31,4 @@ header_image: /assets/images/header.jpg
 ## Gluten ambigious
 
  * [Peppermint Patties](/gluten-amb/peppermint-patties.md)
+ * [Pancakes](/gluten-free/pancakes.md)
