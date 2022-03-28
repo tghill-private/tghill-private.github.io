@@ -4,7 +4,9 @@ title: Pancakes
 header_image: /assets/images/pancakes.jpg
 ---
 
-# Bagels
+# Pancakes
+
+Makes plenty of pancakes for 2 people. Generally use ~1/2 cup of flour per person.
 
 ## Ingredients
 
@@ -21,4 +23,5 @@ header_image: /assets/images/pancakes.jpg
 * Mix dry ingredients
 * Add milk, egg, and melted butter. Stir just until combined
 * Cook over medium heat
+
 
