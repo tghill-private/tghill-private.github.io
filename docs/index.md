@@ -19,6 +19,7 @@ header_image: /assets/images/header.jpg
  * [Peanut banana oat muffins](/gluten-free/peanut-banana-muffins.md)
  * [Pierogies](/gluten-free/pierogies.md)
  * [Chocolate cake](/gluten-free/chocolate-cake.md)
+ * [Dumplings](/gluten-free/dumplings.md)
 
 ## Gluten full
 
@@ -32,3 +33,4 @@ header_image: /assets/images/header.jpg
 
  * [Peppermint Patties](/gluten-amb/peppermint-patties.md)
  * [Pancakes](/gluten-free/pancakes.md)
+ * [Sesame Chicken](/gluten-amb/sesame-chicken.md)
