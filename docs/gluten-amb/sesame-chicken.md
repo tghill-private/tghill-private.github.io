@@ -28,6 +28,7 @@ header_image: /assets/images/sesame-chicken.png
  * 1/2 cup ketchup
  * 3 tbsp brown sugar
  * 2 tbsp rice vinegar
+ * 1.5 tbsp sesame oil
 
 ### Toppings
 
