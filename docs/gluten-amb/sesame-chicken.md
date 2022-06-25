@@ -29,6 +29,7 @@ header_image: /assets/images/sesame-chicken.png
  * 3 tbsp brown sugar
  * 2 tbsp rice vinegar
  * 1.5 tbsp sesame oil
+ * 2 tsp cornstarch
 
 ### Toppings
 
