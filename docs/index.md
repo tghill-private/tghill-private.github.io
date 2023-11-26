@@ -34,3 +34,14 @@ header_image: /assets/images/header.jpg
  * [Peppermint Patties](/gluten-amb/peppermint-patties.md)
  * [Pancakes](/gluten-free/pancakes.md)
  * [Sesame Chicken](/gluten-amb/sesame-chicken.md)
+
+## Christmas baking
+
+ * [Toffee shortbread cookies](https://anitalianinmykitchen.com/toffee-shortbread-cookies/)
+ * [Lebkuchen honey cake](https://www.cookist.com/lebkuchen-german-cake/)
+ * [Pfeffernuesse](https://www.daringgourmet.com/pfeffernuesse-german-iced-gingerbread-cookies/)
+ * [Chocolate crinkle cookies](https://sallysbakingaddiction.com/double-chocolate-crinkle-cookies/)
+ * [Gingerbread cookies](https://sallysbakingaddiction.com/best-gingerbread-cookies/)
+ * [Almond flour shortbread cookies](https://ifoodreal.com/almond-flour-shortbread-cookies/)
+ * [Speculoos cookies](https://www.daringgourmet.com/speculoos-cookies/#recipe)
+
