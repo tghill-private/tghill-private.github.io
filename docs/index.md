@@ -44,4 +44,4 @@ header_image: /assets/images/header.jpg
  * [Gingerbread cookies](https://sallysbakingaddiction.com/best-gingerbread-cookies/)
  * [Almond flour shortbread cookies](https://ifoodreal.com/almond-flour-shortbread-cookies/)
  * [Speculoos cookies](https://www.daringgourmet.com/speculoos-cookies/#recipe)
-
+ * [Peppermint mocha cookies](https://sallysbakingaddiction.com/peppermint-mocha-cookies/)
